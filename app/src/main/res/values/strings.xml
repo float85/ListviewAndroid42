@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListviewDemo</string>
+    <string name="login_username">UserName</string>
+    <string name="login_pass">Pass</string>
+    <string name="login_button_login">Login</string>
+    <string name="login_button_edit">Save</string>
+    <string name="login_error">Chưa nhập đủ thông tin user/pass</string>
+</resources>
